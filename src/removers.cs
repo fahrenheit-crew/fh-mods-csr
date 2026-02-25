@@ -1,5 +1,5 @@
-﻿using Fahrenheit.Core.Atel;
-using Fahrenheit.Core.FFX;
+﻿using Fahrenheit.FFX;
+using Fahrenheit.Atel;
 using System.Runtime.InteropServices;
 using TerraFX.Interop.Windows;
 
