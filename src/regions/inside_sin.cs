@@ -7,7 +7,7 @@ using System.Text;
 
 namespace Fahrenheit.Mods.CSR {
     internal unsafe static partial class Removers {
-        private static class Sin {
+        private static class InsideSin {
             
         }
     }

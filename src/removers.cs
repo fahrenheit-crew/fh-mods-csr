@@ -1,7 +1,6 @@
 ﻿using Fahrenheit.FFX;
 using Fahrenheit.Atel;
 using System.Runtime.InteropServices;
-using TerraFX.Interop.Windows;
 
 namespace Fahrenheit.Mods.CSR;
 
