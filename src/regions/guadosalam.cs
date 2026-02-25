@@ -1,6 +1,6 @@
 ﻿// SPDX-License-Identifier: MIT
 
-using Fahrenheit.Core.Atel;
+using Fahrenheit.Atel;
 using System;
 using System.Collections.Generic;
 using System.Text;
