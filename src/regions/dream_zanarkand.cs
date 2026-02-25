@@ -1,6 +1,7 @@
 ﻿// SPDX-License-Identifier: MIT
 
 namespace Fahrenheit.Mods.CSR; 
+
 internal unsafe static partial class Removers {
     private static class DreamZanarkand {
         public static void remove_intro(byte* code_ptr) {

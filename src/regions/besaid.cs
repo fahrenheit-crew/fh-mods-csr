@@ -1,6 +1,7 @@
 ﻿// SPDX-License-Identifier: MIT
 
 namespace Fahrenheit.Mods.CSR; 
+
 internal unsafe static partial class Removers {
     private static class Besaid {
         public static void remove_valley(byte* code_ptr) {

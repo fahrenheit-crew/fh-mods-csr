@@ -1,6 +1,7 @@
 ﻿// SPDX-License-Identifier: MIT
 
 namespace Fahrenheit.Mods.CSR; 
+
 internal unsafe static partial class Removers {
     private static class CidsShip {
         public static void remove_underwater_ruins(byte* code_ptr) {
